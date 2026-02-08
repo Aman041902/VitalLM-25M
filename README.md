@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red)
 ![Status](https://img.shields.io/badge/Status-Trained-green)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Weights_Available-yellow)
+[![Model Weights](https://img.shields.io/badge/🤗%20Model-Download%20Weights-yellow)](https://huggingface.co/aman0419/VitalLM-12M-Medical)
 
 **VitalLM-25M** is a custom-architected, decoder-only Transformer model optimized for biomedical text generation. Architected from scratch and trained on a **178M token** dataset synthesized from clinical dialogues (ChatDoctor) and medical literature (PubMed), it demonstrates that small, specialized models can achieve robust reasoning without billion-scale parameters.
 
