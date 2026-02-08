@@ -46,7 +46,7 @@ You can load the model directly from Hugging Face using the custom `model.py` ar
 
 ### 1. Installation
 ```bash
-git clone [https://github.com/YourUsername/VitalLM-25M.git](https://github.com/Aman041902/VitalLM-25M.git)
+git clone https://github.com/Aman041902/VitalLM-25M.git
 cd VitalLM-25M
 pip install torch transformers tokenizers huggingface_hub
 ```
